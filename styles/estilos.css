@@ -1,0 +1,43 @@
+p {
+    color: red;
+}
+
+h3{
+    color: blue;
+}
+
+#parrafo3 {
+    color: green;
+}
+
+.textoGris{
+    color: gray;
+}
+
+.textoNegro{
+    color: blue;
+}
+
+.fondorojo{
+    background-color: red;
+}
+
+.textoGrandeNegrita{
+    font-size: x-large;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sizeimage{
+    height: 200px;
+}
+
+.contenedorConMargen{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid red;
+    padding: 10px;
+}
